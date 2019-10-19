@@ -6,4 +6,4 @@ def meal_choice(veg1, veg2, protein="meat")
   puts "A plate of #{meat} with #{carrot} and #{beats}."
   return 
 end
-   meal_choice
+  
